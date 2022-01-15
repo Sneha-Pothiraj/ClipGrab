@@ -1,6 +1,6 @@
 """
 CN LAB PACKAGE
-Code by: SNEHA G
+Code by: SNEHA P and NIKILA B
 Section: Server 3
 Topic: Downloading large mp4 file from multiple servers using TCP + File Segmentation + File Recombination
 """
