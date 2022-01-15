@@ -1,6 +1,6 @@
 """
 CN LAB PACKAGE
-Code by: SNEHA G
+Code by: SNEHA P and NIKILA B
 Section: Client
 Topic: Downloading from multiple servers using TCP + File Segmentation + File Recombination
 """
